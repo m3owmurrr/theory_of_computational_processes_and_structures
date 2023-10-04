@@ -1,0 +1,17 @@
+A={a,b}. Перевернуть слово P (например: abb → bba).
+
+example: bbbaaababaaa
+
+a.b->ba.
+b.a->ab.
+a.a->aa.
+b.b->bb.
+b.->b
+a.->a
+*a->a*
+*b->b*
+a#->#a.
+b#->#b.
+#=>
+*->#
+->*
